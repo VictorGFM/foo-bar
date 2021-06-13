@@ -4,7 +4,7 @@ Google's Foobar challenge solutions!
 
 ## Details
 
-Foobar is a invitational challenge proposed by google, with 5 different levels in total.
+Foobar is an invitational challenge proposed by google, with 5 different levels in total.
 
 Each directory contains three files:
 
